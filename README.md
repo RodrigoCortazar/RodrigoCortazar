@@ -36,3 +36,9 @@
 <span>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </span>
+<!--
+<h4> Certificaciones </h4>
+<span>
+  <img src="https://img.shields.io/badge/Linux_Essentials-LPI-blue?style=for-the-badge">
+</span>
+-->
