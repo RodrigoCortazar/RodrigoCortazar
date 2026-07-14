@@ -43,3 +43,17 @@
   <img src="https://img.shields.io/badge/Linux_Essentials-LPI-blue?style=for-the-badge">
 </span>
 -->
+
+
+## <!-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width=25> --> Certificados
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/1b3d1449-2cb3-4047-ae91-3e151082e6da/public_url">
+        <img src="./img/LPI-LE.png" height="120">
+      </a>
+    </td>
+  </tr>
+</table>
+
