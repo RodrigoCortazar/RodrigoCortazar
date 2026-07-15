@@ -54,6 +54,11 @@
         <img src="./img/LPI-LE.png" height="120">
       </a>
     </td>
+    <td>
+      <a href="https://hack4u.io/certificate/4084-5369-5351-6073">
+        <img src="./img/certLinuHack4u.jpeg" height="120">
+      </a>
+    </td>
   </tr>
 </table>
 
